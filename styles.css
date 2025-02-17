@@ -9,3 +9,44 @@ img{
     margin-left: 20px;
     border-radius: 10px;
 }
+
+p{
+    font-size: x-large;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+h3{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.background{
+    color: rgb(0, 204, 255);
+}
+
+.hobbies{
+    color: forestgreen;
+}
+
+.biography{
+    font-style: italic;
+}
+
+.mainHeader{
+    color: blueviolet;
+}
+
+.tableHead{
+    font-weight: 900;
+    font-size: large;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.schedule{
+    padding-bottom: 20px;
+}
