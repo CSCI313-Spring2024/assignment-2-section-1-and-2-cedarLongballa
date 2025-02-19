@@ -59,3 +59,16 @@ h1{
     padding: 20px;
     margin-left: 100px;
 }
+
+.submit-button{
+    background-color: cyan;
+    text-align: center;
+    font-weight: 900;
+    color: rgb(224, 13, 13);
+    margin-left: 48%;
+}
+
+.formCSS{
+    margin-left: 20%;
+    margin-right: 20%;
+}
